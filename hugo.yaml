@@ -1,0 +1,36 @@
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "Lyss"
+theme: "loficode"
+
+params:
+  description: "My Hugo website"
+  favicon: "/images/favicon.png"
+  tagline: "Lyss Jorgensen"
+
+  author:
+    name: "Lyss Jorgensen"
+    image: "/images/pfp.jpg"
+
+  social:
+    email: "lyssajorgensen@icloud.com"
+
+menu:
+  main:
+    - identifier: "Home"
+      name: "About Me"
+      url: "/about/"
+      weight: 1
+    - identifier: "blog"
+      name: "Blog"
+      url: "/posts/"
+      weight: 2
+    - identifier: "contact"
+      name: "Get In Touch"
+      url: "/contact/"
+      weight: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

@@ -1,0 +1,32 @@
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "My Loficode Site"
+theme: "loficode"
+
+author:
+  name: "Lyss Jorgensen"
+  email: "lyssajorgensen@icloud.com"
+
+params:
+  description: "My Hugo website using Loficode theme"
+  favicon: "images/favicon.ico"
+
+menu:
+  main:
+    - identifier: "home"
+      name: "Home"
+      url: "/"
+      weight: 1
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
+      weight: 2
+    - identifier: "blog"
+      name: "Blog"
+      url: "/posts/"
+      weight: 3
+
+outputs:
+  home:
+    - HTML
+    - RSS

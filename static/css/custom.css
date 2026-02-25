@@ -1,0 +1,7 @@
+.logo::before {
+    content: "👩‍💻";
+}
+
+.overlay-site-title::before {
+    content: "👩‍💻";
+}
