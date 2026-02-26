@@ -1,4 +1,4 @@
-baseURL: "http://localhost:1313/"
+baseURL: "https://lyssjorgensen.github.io/lyssjorgensen/"
 languageCode: "en-us"
 title: "Lyss"
 theme: "loficode"
