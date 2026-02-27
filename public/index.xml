@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lyss</title>
-    <link>http://localhost:1313/lyssjorgensen/</link>
+    <link>https://lyssjorgensen.github.io/lyssjorgensen/</link>
     <description>Recent content on Lyss</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Feb 2026 14:30:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/lyssjorgensen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lyssjorgensen.github.io/lyssjorgensen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Ethics in Action: What a Simple Survey Taught me </title>
-      <link>http://localhost:1313/lyssjorgensen/posts/data-ethics-in-action/</link>
+      <link>https://lyssjorgensen.github.io/lyssjorgensen/posts/data-ethics-in-action/</link>
       <pubDate>Wed, 25 Feb 2026 14:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/lyssjorgensen/posts/data-ethics-in-action/</guid>
+      <guid>https://lyssjorgensen.github.io/lyssjorgensen/posts/data-ethics-in-action/</guid>
       <description>&lt;p&gt;One of my recent assignments put me in the shoes of a data analyst. I was to be given course survey results and asked to review them and make recommendations to help figure out which course needed to be updated or redesigned. Honestly when I first read it I thought it would be pretty straightforward.&lt;/p&gt;&#xA;&lt;p&gt;But when I actually started reading through the survey something felt off…&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-task-that-seemed-simple&#34;&gt;A Task That Seemed Simple&lt;/h2&gt;&#xA;&lt;p&gt;The survey told participants were anonymous. But to take the survey they had to log in with their username and password. I was sitting there of a second thinking wait, those two things don’t really go together. If you’re being told to log in with your credentials your credentials your identity is attached to the session. Even if the final report doesn’t show names the system could still technically connect a response to a person through things like log in records, user ids, or time stamps. That’s not really anonymous, just anonymous looking and I think there’s a difference.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Designing My Future Through Data &amp; AI </title>
-      <link>http://localhost:1313/lyssjorgensen/posts/designing-my-future-through-data/</link>
+      <link>https://lyssjorgensen.github.io/lyssjorgensen/posts/designing-my-future-through-data/</link>
       <pubDate>Fri, 20 Feb 2026 16:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/lyssjorgensen/posts/designing-my-future-through-data/</guid>
+      <guid>https://lyssjorgensen.github.io/lyssjorgensen/posts/designing-my-future-through-data/</guid>
       <description>&lt;h2 id=&#34;starting-my-journey-in-data--ai&#34;&gt;Starting My Journey in Data &amp;amp; AI&lt;/h2&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Alyssa! I&amp;rsquo;m currently studying Data Analytics &amp;amp; AI, and I&amp;rsquo;m excited to be in a field that blends logic, creativity and real-world impact. What I love most about this program is how versatile it is. Data is everywhere, and the ability to analyze it opens doors in almost every industry imaginable.&lt;/p&gt;&#xA;&lt;h3 id=&#34;where-my-passion-meets-my-purpose&#34;&gt;Where My Passion Meets My Purpose&lt;/h3&gt;&#xA;&lt;p&gt;For me, the most exciting application of data analytics is sports. Football specifically. I&amp;rsquo;ve always been passionate about the game, and the idea that I can use skills like data visualization, predictive modeling and AI to uncover patterns in player performance or game strategy feels like the perfect intersection of who I am and what I&amp;rsquo;m learning. It&amp;rsquo;s what made me realize this field was the right fit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Assignment 3</title>
-      <link>http://localhost:1313/lyssjorgensen/posts/building-cozy-workspaces-copy/</link>
+      <link>https://lyssjorgensen.github.io/lyssjorgensen/posts/building-cozy-workspaces-copy/</link>
       <pubDate>Mon, 15 Jan 2024 14:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/lyssjorgensen/posts/building-cozy-workspaces-copy/</guid>
+      <guid>https://lyssjorgensen.github.io/lyssjorgensen/posts/building-cozy-workspaces-copy/</guid>
       <description>&lt;p&gt;In our fast-paced digital world, creating a cozy workspace isn&amp;rsquo;t just about aesthetics—it&amp;rsquo;s about crafting an environment that nurtures creativity, reduces stress, and helps you do your best work.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-psychology-of-cozy-spaces&#34;&gt;The Psychology of Cozy Spaces&lt;/h2&gt;&#xA;&lt;p&gt;There&amp;rsquo;s something magical about spaces that feel &lt;em&gt;just right&lt;/em&gt;. Whether it&amp;rsquo;s a corner coffee shop with warm lighting or your perfectly organized home office, cozy spaces have a profound impact on our mental state and productivity.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/lyssjorgensen/about/</link>
+      <link>https://lyssjorgensen.github.io/lyssjorgensen/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lyssjorgensen/about/</guid>
+      <guid>https://lyssjorgensen.github.io/lyssjorgensen/about/</guid>
       <description>&lt;h1 id=&#34;lyss-jorgensen&#34;&gt;Lyss Jorgensen&lt;/h1&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Alyssa! But most people call me Lyss. I&amp;rsquo;m studying Data Analytics &amp;amp; AI and working toward a career as a sports data analyst in the football industry. I&amp;rsquo;m passionate about the game and genuinely excited by how data can help teams make smarter decisions both on and off the field.&lt;/p&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Data Analysis &amp;amp; AI Specialist&lt;/strong&gt; - Trios College, 2027&lt;/p&gt;&#xA;&lt;h2 id=&#34;programs&#34;&gt;Programs&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Here are some tools and programs I&amp;rsquo;ve been working with recently:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/lyssjorgensen/contact/</link>
+      <link>https://lyssjorgensen.github.io/lyssjorgensen/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lyssjorgensen/contact/</guid>
-      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h1&gt;&#xA;&lt;p&gt;Curious about what the stats really say on the field? I’d love to hear how you’re analyzing performance, spotting trends, and making strategic plays!&lt;/p&gt;&#xA;&lt;p&gt;Connect with me or send me a message!&lt;/p&gt;&#xA;&lt;h2 id=&#34;find-me-here&#34;&gt;Find me Here&lt;/h2&gt;&#xA;&lt;a href=&#34;mailto:lyssajorgensen@icloud.com&#34; target=&#34;_blank&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/lyssjorgensen/images/email.png&#34; alt=&#34;Email&#34; width=&#34;40&#34; height=&#34;40&#34; style=&#34;margin-right: 15px;&#34;&gt;&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&lt;a href=&#34;https://www.linkedin.com/in/alyssa-j11331133/&#34; target=&#34;_blank&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/lyssjorgensen/images/linkedin.png&#34; alt=&#34;LinkedIn&#34; width=&#34;40&#34; height=&#34;40&#34; style=&#34;margin-right: 15px;&#34;&gt;&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&lt;a href=&#34;https://www.instagram.com/heylysslol/&#34; target=&#34;_blank&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/lyssjorgensen/images/instagram.png&#34; alt=&#34;Instagram&#34; width=&#34;40&#34; height=&#34;40&#34; style=&#34;margin-right: 15px;&#34;&gt;&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&lt;a href=&#34;https://github.com/lyssjorgensen&#34; target=&#34;_blank&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/lyssjorgensen/images/github.png&#34; alt=&#34;Github&#34; width=&#34;40&#34; height=&#34;40&#34; style=&#34;margin-right: 15px;&#34;&gt;&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;Thanks for stopping by! 💜&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>https://lyssjorgensen.github.io/lyssjorgensen/contact/</guid>
+      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h1&gt;&#xA;&lt;p&gt;Curious about what the stats really say on the field? I’d love to hear how you’re analyzing performance, spotting trends, and making strategic plays!&lt;/p&gt;&#xA;&lt;p&gt;Connect with me or send me a message!&lt;/p&gt;&#xA;&lt;h2 id=&#34;find-me-here&#34;&gt;Find me Here&lt;/h2&gt;&#xA;&lt;a href=&#34;mailto:lyssajorgensen@icloud.com&#34; target=&#34;_blank&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://lyssjorgensen.github.io/lyssjorgensen/images/email.png&#34; alt=&#34;Email&#34; width=&#34;40&#34; height=&#34;40&#34; style=&#34;margin-right: 15px;&#34;&gt;&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&lt;a href=&#34;https://www.linkedin.com/in/alyssa-j11331133/&#34; target=&#34;_blank&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://lyssjorgensen.github.io/lyssjorgensen/images/linkedin.png&#34; alt=&#34;LinkedIn&#34; width=&#34;40&#34; height=&#34;40&#34; style=&#34;margin-right: 15px;&#34;&gt;&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&lt;a href=&#34;https://www.instagram.com/heylysslol/&#34; target=&#34;_blank&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://lyssjorgensen.github.io/lyssjorgensen/images/instagram.png&#34; alt=&#34;Instagram&#34; width=&#34;40&#34; height=&#34;40&#34; style=&#34;margin-right: 15px;&#34;&gt;&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&lt;a href=&#34;https://github.com/lyssjorgensen&#34; target=&#34;_blank&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://lyssjorgensen.github.io/lyssjorgensen/images/github.png&#34; alt=&#34;Github&#34; width=&#34;40&#34; height=&#34;40&#34; style=&#34;margin-right: 15px;&#34;&gt;&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;Thanks for stopping by! 💜&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

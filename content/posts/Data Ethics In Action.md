@@ -2,7 +2,7 @@
 title: "Data Ethics in Action: What a Simple Survey Taught me "
 subtitle: "Assignment 2"
 date: 2026-02-25T14:30:00Z
-tags: 
+tags: ["Data Ethics"] 
 featured: true
 mood: ""
 ---
