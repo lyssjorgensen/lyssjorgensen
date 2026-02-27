@@ -5,12 +5,12 @@ theme: "loficode"
 
 params:
   description: "My Hugo website"
-  favicon: "/images/favicon.png"
+  favicon: "images/favicon.png"
   tagline: "Lyss Jorgensen"
 
   author:
     name: "Lyss Jorgensen"
-    image: "/images/pfp.jpg"
+    image: "images/pfp.jpg"
 
   social:
     email: "lyssajorgensen@icloud.com"
