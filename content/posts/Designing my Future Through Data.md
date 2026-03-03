@@ -1,6 +1,6 @@
 ---
 title: "Designing My Future Through Data & AI "
-subtitle: "Assignment 1"
+subtitle: "Alyssa Jorgensen"
 date: 2026-02-20T16:45:00Z
 tags: 
 mood: 
