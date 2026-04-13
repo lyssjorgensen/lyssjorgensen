@@ -2,7 +2,7 @@
 title: "Smile for the Camera: The Ethics of Facial Recognition at Pearson Airport"
 subtitle: "Alyssa Jorgensen"
 date: 2026-03-03T14:30:00Z
-tags: 
+tags: ["Data Ethics"] 
 featured: true
 mood: "Focused"
 ---
